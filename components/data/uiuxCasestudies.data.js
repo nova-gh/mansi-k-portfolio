@@ -3,29 +3,33 @@
 export const uiuxCaseList = [
   {
     id: 0,
-    title: "not comp",
-    summary:
-      "UI & UX design for a fashion marketplace. Personal conceptual side project.",
+    title: "noQ",
+    summary: "Case study on a virtual slot booking application for college.",
     contentSrc: "/assets/all-projects/uixCaseStudy/eachCaseStudy/1.png",
     thumbnailSrc: "/assets/all-projects/uixCaseStudy/1.png",
-    videoUrl: "https://www.youtube.com/embed/DEiVBwIavJo",
+    contentWidth: "3470",
+    contentHeight: "32700",
+    thumbnailWidth: "2645",
+    thumbnailHeight: "2116",
+    videoUrl: "https://www.youtube.com/embed/_yRBLKb0JtA",
   },
   {
     id: 1,
-    title: "Tassel 2",
-    summary:
-      "UI & UX design for a fashion marketplace. Personal conceptual side project.",
+    title: "proj.co",
+    summary: "Case study on a project collaboration website.",
     contentSrc: "/assets/all-projects/uixCaseStudy/eachCaseStudy/2.png",
     thumbnailSrc: "/assets/all-projects/uixCaseStudy/2.png",
-    videoUrl: "https://www.youtube.com/embed/DEiVBwIavJo",
+    videoUrl: "https://www.youtube.com/embed/6uc3PLBlEe0",
+    contentWidth: "3470",
+    contentHeight: "32700",
   },
-  {
-    id: 2,
-    title: "Tassel 3",
-    summary:
-      "UI & UX design for a fashion marketplace. Personal conceptual side project.",
-    contentSrc: "/assets/all-projects/uixCaseStudy/eachCaseStudy/3.png",
-    thumbnailSrc: "/assets/all-projects/uixCaseStudy/3.png",
-    videoUrl: "https://www.youtube.com/embed/DEiVBwIavJo",
-  },
+  // {
+  //   id: 2,
+  //   title: "Tassel 3",
+  //   summary:
+  //     "UI & UX design for a fashion marketplace. Personal conceptual side project.",
+  //   contentSrc: "/assets/all-projects/uixCaseStudy/eachCaseStudy/3.png",
+  //   thumbnailSrc: "/assets/all-projects/uixCaseStudy/3.png",
+  //   videoUrl: "https://www.youtube.com/embed/DEiVBwIavJo",
+  // },
 ];

@@ -17,22 +17,33 @@ const heroSection = () => {
           Hey!
         </p>
         <h1 className="mb-4 text-4xl font-semibold space lg:text-5xl text-heroH ">
-          I&#39;m <span className="text-brand">Mansi Kasar</span>, an UI/UX
+          I&#39;m <span className="text-brand">Mansi Kasar</span>, a UI/UX
           Designer.
         </h1>
         <p className="mb-4 text-base font-normal text-heroH lg:mb-32 lg:text-lg">
-          UI/UX Designer based in Mumbai, India.
+          I love to design, illustrate, dance, eat good food, and binge.
         </p>
         <div className="flex mb-4 space-x-6">
-          <button className="flex items-center px-4 py-2 space-x-2 text-white rounded-lg bg-brand">
-            <FaRegEnvelope className="text-xl" />
+          <Link href="mailto:mansikasar5@gmail.com">
+            <a className="flex items-center px-4 py-2 space-x-2 text-white rounded-lg bg-brand">
+              <FaRegEnvelope className="text-xl" />
 
-            <span className="text-sm font-bold lg:text-base">Mail Me</span>
-          </button>
-          <button className="flex items-center px-4 py-2 space-x-2 border rounded-lg text-heroH border-brandOutline">
-            <FiDownload className="text-xl" />
-            <span className="text-sm font-bold lg:text-base ">Download CV</span>
-          </button>
+              <span className="text-sm font-bold lg:text-base">Mail Me</span>
+            </a>
+          </Link>
+          <Link href="https://drive.google.com/file/d/14HPvVyy-DY3KS4Fd3KUORTcAVOgYuqjF/view?usp=sharing">
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              download
+              className="flex items-center px-4 py-2 space-x-2 border rounded-lg text-heroH border-brandOutline"
+            >
+              <FiDownload className="text-xl" />
+              <span className="text-sm font-bold lg:text-base ">
+                Download Resume
+              </span>
+            </a>
+          </Link>
         </div>
       </div>
       {/* middle */}
@@ -42,6 +53,7 @@ const heroSection = () => {
             src="/assets/heroImg.png"
             width="583"
             height="554.46px"
+            quality="100"
             alt="Picture of Mansi"
           />
         </div>
