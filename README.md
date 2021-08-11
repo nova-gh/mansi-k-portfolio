@@ -32,5 +32,5 @@ This project was made to showcase UI/UX work done by the client. Aside from deve
 - Twitter - [@novaagh](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
-- Future Edits made by [Saif Al Falah](https://github.com/saifalfalah)
+- Future Edits: [Saif Al Falah](https://github.com/saifalfalah)
 
