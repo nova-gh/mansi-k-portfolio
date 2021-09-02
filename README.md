@@ -16,7 +16,7 @@
 This project was made to showcase UI/UX work done by the client. Aside from developing the website, I also helped the client setup hosting and domain with Vercel and Google Doamins.
 
 ### Links
-- Live Site [Demo](https://mansikasar.com)
+- Live Site [Demo](https://mk-portfolio-five.vercel.app)
 
 ## My process
 
