@@ -31,7 +31,7 @@ const heroSection = () => {
               <span className="text-sm font-bold lg:text-base">Mail Me</span>
             </a>
           </Link>
-          <Link href="https://drive.google.com/file/d/14HPvVyy-DY3KS4Fd3KUORTcAVOgYuqjF/view?usp=sharing">
+          <Link href="https://drive.google.com/file/d/111RX7Q51a5gnVT80Zu6thiyeC6GpJ1Ai/view?usp=share_link">
             <a
               target="_blank"
               rel="noopener noreferrer"
